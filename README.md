@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header" width="100%"/>
 <h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
 <p align="center">
