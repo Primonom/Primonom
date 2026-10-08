@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Pablo 👋</h1>
 
-<!--
-**Primonom/Primonom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estudante de Engenharia de Controle e Automação na UFMG<br>
+  Foco em automação, engenharia de dados e desenvolvimento backend
+</p>
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,docker,git,linux,postgres,react,selenium,github" />
+</p>
+
+## 📊 Estatísticas
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Primonom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Primonom&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🚀 Projetos em destaque
+
+- **[airflow-continuum-chat](https://github.com/Primonom/airflow-continuum-Chat)**: descrição em uma linha
+- **[LabCri](https://github.com/LabCri-system)**: sistema de gestão laboratorial da UFMG
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
